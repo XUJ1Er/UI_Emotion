@@ -1,14 +1,14 @@
 # EmotionUI
- Software for Multimodalty 2D+3D Facial Expression Recognition (FER) UI.
+ Software for Multi-scale 2D Facial Expression Recognition (FER) UI.
 
-## demo screenshot
+## Demo screenshot
 ![demo-ui](./resource/demo-ui.png)
 
 ![demo-happy](./resource/demo-happy.png)
 
 (with RealSense)
 
-## required packages
+## Required packages
  - Python >= 3.6
  - numpy >= 1.19.5
  - Opencv-python >= 4.5
@@ -16,7 +16,8 @@
  - PyTorch >= 1.10
  - TorchVision >= 0.11
 
-## hardware
+## Hardware
  1) usb camera
- 2) Intel RealSense (optional for depth imaging)
- 3) NV GPU (optional, CPU version also works)
+ 2) NV GPU (optional, CPU version also works)
+## More
+please see the [MFER](https://github.com/XuJ1E/MFER) project.
