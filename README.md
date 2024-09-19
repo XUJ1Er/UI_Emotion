@@ -1,12 +1,21 @@
 # EmotionUI
- Software for Multi-scale 2D Facial Expression Recognition (FER) UI.
+ Software for Multiscale 2D Facial Expression Recognition (FER) UI.
 
 ## Demo screenshot
-![demo-ui](./resource/demo-ui.png)
+</div>
+<div align=center>
+<img src="./resource/demo-ui.png" width="700" height="420" />
+</div>
 
-![demo-happy](./resource/demo-happy.png)
 
-(with RealSense)
+---
+</div>
+<div align=center>
+ <img src="./resource/demo-happy.png" width="700" height="420" />
+
+ 
+ with RealSense
+</div>
 
 ## Required packages
  - Python >= 3.6
