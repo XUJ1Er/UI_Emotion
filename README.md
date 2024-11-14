@@ -28,5 +28,3 @@
 ## Hardware
  1) usb camera
  2) NV GPU (optional, CPU version also works)
-## More
-please see the [MFER](https://github.com/XuJ1E/MFER) project.
